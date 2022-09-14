@@ -1,0 +1,11 @@
+The sum of 5 and 3 is 8
+The sum of 4 and 4 is 8
+The division of 5 and 3 is 1.6666666666666667
+The division of 3 and 4 is 0.75
+The sum of 4 and 3 is 7
+The sum of 6 and 6 is 12
+The division of 5 and 2 is 2.5
+The subtraction of 7498576340 and 37465763 is 7461110577
+The sum of 3563 and 678678 is 682241
+The sum of 345 and 756 is 1101
+The sum of 44 and 22 is 66
